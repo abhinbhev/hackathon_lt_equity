@@ -1,6 +1,8 @@
 # Ignore the data folders and all its contents
 dummy_data/
 data/
+submissions/
+created_data
 
 # Ignore Jupyter notebook checkpoints (outputs)
 .ipynb_checkpoints/
